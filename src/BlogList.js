@@ -11,5 +11,5 @@ const BlogList = ({ blogs, title}) => {
     </div>
   );
 }
- #16
+
 export default BlogList;
